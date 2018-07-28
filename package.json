@@ -1,0 +1,15 @@
+{
+  "name": "cassianojrportfolio",
+  "version": "1.0.0",
+  "description": "My portfolio website for professional contact and show my work.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Cassiano Medeiros Vieira Junior",
+  "license": "MIT",
+  "dependencies": {
+    "i": "^0.3.6",
+    "node-sass": "^4.9.2"
+  }
+}
