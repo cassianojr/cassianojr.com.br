@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My portfolio website for professional contact and show my work.",
   "main": "index.js",
-  "homepage": "https://cassianojr.github.io/cassianojr.com.br",
+  "homepage": "https://cassianojunior.com.br/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
